@@ -9,7 +9,6 @@ electron-dist/
 build/
 
 # Environment files
-.env
 .env.local
 .env.development.local
 .env.test.local
